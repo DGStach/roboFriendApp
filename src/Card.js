@@ -1,7 +1,5 @@
 import React from "react";
 
-// id props are not linked correctluy inside of image src hhtp
-
 const Card = (props) => {
     const {id, name, email} = props;
     return(
